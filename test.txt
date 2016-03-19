@@ -1,0 +1,7 @@
+THIS IS A TEST TXT
+
+SO LEAVE IT ALONE
+
+尚未变更前的原始TXT文件
+
+在A 本地对该TXT文件进行修改，并传送到远端。
